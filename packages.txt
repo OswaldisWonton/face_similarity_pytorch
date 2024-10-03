@@ -1,2 +1,2 @@
-cmake
+cmake==3.10.2
 build-essential
