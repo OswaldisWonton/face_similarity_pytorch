@@ -1,6 +1,5 @@
 --extra-index-url https://mirrors.aliyun.com/pypi/simple/
 
-dlib
 streamlit==1.39.0
 torch==2.2.2
 opencv-python-headless==4.10.0.84
