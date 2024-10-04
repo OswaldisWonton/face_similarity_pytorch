@@ -2,4 +2,3 @@ cmake
 libgl1
 libdlib-dev
 build-essential
-python3.10-dev
