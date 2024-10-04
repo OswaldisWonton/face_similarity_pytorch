@@ -4,6 +4,3 @@ libgl1-mesa-glx
 libglib2.0-0
 ffmpeg
 cmake
-libboost-python-dev
-libboost-thread-dev
-libopencv-dev
