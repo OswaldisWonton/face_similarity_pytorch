@@ -1,3 +1,4 @@
 cmake
 libgl1
+libdlib-dev
 build-essential
