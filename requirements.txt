@@ -1,5 +1,5 @@
---extra-index-url https://pypi.tuna.tsinghua.edu.cn/simple/
-
+--extra-index-url https://mirrors.aliyun.com/pypi/simple/
+--find-links https://github.com/jkjung-avt/dlib-builds/releases/tag/v19.24
 
 streamlit==1.39.0
 torch==2.2.2
